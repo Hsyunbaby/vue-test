@@ -1,0 +1,24 @@
+{
+    "posts": [{
+            "user": "Hsybaby",
+            "password": "Hsybaby",
+            "follow": 111,
+            "fans": 22,
+            "hasSession": true
+        },
+        {
+            "user": "Hsy",
+            "password": "Hsybaby",
+            "follow": 111,
+            "fans": 22,
+            "hasSession": true
+        },
+        {
+            "user": "baby",
+            "password": "Hsybaby",
+            "follow": 111,
+            "fans": 22,
+            "hasSession": true
+        }
+    ]
+}
